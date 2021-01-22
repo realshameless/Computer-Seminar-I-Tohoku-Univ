@@ -13,9 +13,9 @@ In the first version, i use Dijkstra algrithom to search shortest path, I added 
 
 in the future, i am planning to improve my code with following functions: 
 
-a) using A* algrithom to replace Dijkstra, because Dijkstra would search distance for every crossing in the map, in the real world, the map data would be huge and impossible to search all of them. A* is a better way to do it. 
-b) I am going to use AES enctryption to replace ASCII based simple arithmetic encryption 
-c) using python or Tensorflow to build a simple neural network to trick few words, such as yes/yeah/yep/sure/of course..etc. 
-d) access online map API to gain real time traffic info, and influence the speed of the car in the map.
+1) Using A* algrithom to replace Dijkstra, because Dijkstra would search distance for every crossing in the map, in the real world, the map data would be huge and impossible to search all of them. A* is a better way to do it. 
+2) I am going to use AES enctryption to replace ASCII based simple arithmetic encryption 
+3) using python or Tensorflow to build a simple neural network to trick few words, such as yes/yeah/yep/sure/of course..etc. 
+4) access online map API to gain real time traffic info, and influence the speed of the car in the map.
 
 so, stay tuned folks...
