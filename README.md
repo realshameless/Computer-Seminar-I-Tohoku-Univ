@@ -1,4 +1,4 @@
-# Computer-Seminar-I-Tohoku-Univ.
+# Computer-Seminar-I-Tohoku-University
 Hello World! 
 i just finish my computer seminar I final project 2 weeks ago, I want to publish my code as my first project on github. I hope it would somehow help you to pass the class.
 
